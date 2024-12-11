@@ -1,6 +1,6 @@
 **Notes App**
 
-A simple web-based application to manage notes. This application allows users to view, add, and update notes efficiently.
+A simple Android application to manage notes. This application allows users to view, add, and update notes efficiently.
 
 ---
 
