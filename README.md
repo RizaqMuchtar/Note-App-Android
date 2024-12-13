@@ -1,10 +1,10 @@
-**Notes App**
+# Notes App
 
 A simple Android application to manage notes. This application allows users to view, add, and update notes efficiently.
 
 ---
 
-**Features**
+# Features
 
 **View All Notes**
 
